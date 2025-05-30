@@ -1,0 +1,13 @@
+.gallery{
+    display: inline-block;
+    margin: 20px;
+    border: 1px solid aliceblue;
+    width: 500px;
+}
+.gallery:hover{
+    border: 5px solid white;
+}
+.gallery img{
+    width: 100%;
+    height: auto;
+}

@@ -1,0 +1,28 @@
+h1{
+    font-family: monospace, serif;
+}
+h2{
+    font-family: monospace, serif;
+
+}
+img{
+    margin-right: 30px;
+}
+
+body{
+    text-align: center;
+
+    font-size: 2em;
+    margin-left: 15%;
+    display: flow-root;
+    width: 70%;
+
+    background-image: url(castoricebg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+}
+header{
+    background-color:rgb(191, 191, 191);
+}
